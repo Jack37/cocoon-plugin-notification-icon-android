@@ -8,11 +8,11 @@
     <repo>https://github.com/ludei/atomic-plugins-notifications</repo>    
 
     <platform name="android">
-        <resource-file src="res/drawable-ldpi-v11/mynoticon.png" target="res/drawable-ldpi-v11/mynoticon.png" />
-        <resource-file src="res/drawable-mdpi-v11/mynoticon.png" target="res/drawable-mdpi-v11/mynoticon.png" />
-        <resource-file src="res/drawable-hdpi-v11/mynoticon.png" target="res/drawable-hdpi-v11/mynoticon.png" />
-        <resource-file src="res/drawable-xhdpi-v11/mynoticon.png" target="res/drawable-xhdpi-v11/mynoticon.png" />
-        <resource-file src="res/drawable-xxhdpi-v11/mynoticon.png" target="res/drawable-xxhdpi-v11/mynoticon.png" />
-        <resource-file src="res/drawable-xxxhdpi-v11/mynoticon.png" target="res/drawable-xxxhdpi-v11/mynoticon.png" />
+        <resource-file src="res/drawable-ldpi-v11/notification_icon.png" target="res/drawable-ldpi-v11/notification_icon.png" />
+        <resource-file src="res/drawable-mdpi-v11/notification_icon.png" target="res/drawable-mdpi-v11/notification_icon.png" />
+        <resource-file src="res/drawable-hdpi-v11/notification_icon.png" target="res/drawable-hdpi-v11/notification_icon.png" />
+        <resource-file src="res/drawable-xhdpi-v11/notification_icon.png" target="res/drawable-xhdpi-v11/notification_icon.png" />
+        <resource-file src="res/drawable-xxhdpi-v11/notification_icon.png" target="res/drawable-xxhdpi-v11/notification_icon.png" />
+        <resource-file src="res/drawable-xxxhdpi-v11/notification_icon.png" target="res/drawable-xxxhdpi-v11/notification_icon.png" />
     </platform>
 </plugin>
